@@ -154,7 +154,7 @@ export default function BrandFoundingLanding() {
             <Card className="border-2 border-gray-200 hover:border-black transition-all duration-300 hover:shadow-lg">
               <div className="relative h-48 overflow-hidden rounded-t-lg">
                 <img
-                  src="public/anime.jpg"
+                  src="https://github.com/kosuke-eth/Brand-Founding/blob/main/public/anime.jpg?raw=true"
                   alt="Studio Ghibli Style Animation Original Picture"
                   className="w-full h-full object-cover"
                 />
