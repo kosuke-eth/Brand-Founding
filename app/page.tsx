@@ -155,7 +155,7 @@ export default function BrandFoundingLanding() {
               <div className="relative h-48 overflow-hidden rounded-t-lg">
                 <img
                   src="https://github.com/kosuke-eth/Brand-Founding/blob/main/public/anime.jpg?raw=true"
-                  alt="Studio Ghibli Style Animation Original Picture"
+                  alt="Animation Original Picture"
                   className="w-full h-full object-cover"
                 />
               </div>
