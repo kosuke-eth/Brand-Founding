@@ -99,7 +99,7 @@ export default function BrandFoundingLanding() {
             <Card className="border-2 border-gray-200 hover:border-black transition-all duration-300 hover:shadow-lg">
               <div className="relative h-48 overflow-hidden rounded-t-lg">
                 <img
-                  src="public/sake-brand.jpg"
+                  src="https://github.com/kosuke-eth/Brand-Founding/blob/main/public/sake-brand.jpg?raw=true"
                   alt="Niigata Sake Brewery"
                   className="w-full h-full object-cover"
                 />
