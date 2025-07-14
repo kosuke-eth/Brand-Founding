@@ -205,12 +205,12 @@ export default function BrandFoundingLanding() {
               </CardContent>
             </Card>
 
-            {/* 日本不動産投資案件 */}
+            {/* 和牛投資案件 */}
             <Card className="border-2 border-gray-200 hover:border-black transition-all duration-300 hover:shadow-lg">
               <div className="relative h-48 overflow-hidden rounded-t-lg">
                 <img
-                  src="https://storage.googleapis.com/studio-cms-assets/projects/rROnwnyYqA/s-2400x1601_v-frms_webp_7a0daee9-5921-479b-9869-2b4b8647075d.jpg"
-                  alt="Tokyo Premium Real Estate"
+                  src="https://github.com/kosuke-eth/Brand-Founding/blob/main/public/wagyu.jpg?raw=true"
+                  alt="Kobe beef Farmers"
                   className="w-full h-full object-cover"
                 />
               </div>
