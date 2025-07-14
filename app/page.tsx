@@ -216,7 +216,7 @@ export default function BrandFoundingLanding() {
               </div>
               <CardHeader className="pb-4">
                 <div className="flex items-center justify-between mb-2">
-                  <Badge className="bg-gray-700 text-white">Real Estate / Japan</Badge>
+                  <Badge className="bg-gray-700 text-white">Business / Japan</Badge>
                   <Badge variant="outline" className="text-black border-black">
                     Funding
                   </Badge>
