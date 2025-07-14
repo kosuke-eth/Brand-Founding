@@ -166,7 +166,7 @@ export default function BrandFoundingLanding() {
                     Funding
                   </Badge>
                 </div>
-                <CardTitle className="text-xl text-black">Studio Ghibli-Style Animation Original Picture</CardTitle>
+                <CardTitle className="text-xl text-black">Animation Original Pictures</CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="grid grid-cols-2 gap-4 text-sm">
@@ -221,7 +221,7 @@ export default function BrandFoundingLanding() {
                     Funding
                   </Badge>
                 </div>
-                <CardTitle className="text-xl text-black">Tokyo Premium Residential Development</CardTitle>
+                <CardTitle className="text-xl text-black">Kobe beef Farmers</CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="grid grid-cols-2 gap-4 text-sm">
