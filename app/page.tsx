@@ -99,7 +99,7 @@ export default function BrandFoundingLanding() {
             <Card className="border-2 border-gray-200 hover:border-black transition-all duration-300 hover:shadow-lg">
               <div className="relative h-48 overflow-hidden rounded-t-lg">
                 <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4cOpHifHjkajTFQeU8OOgvSEsyU2Lhiid3g&s"
+                  src="public/sake-brand.jpg"
                   alt="Niigata Sake Brewery"
                   className="w-full h-full object-cover"
                 />
@@ -154,7 +154,7 @@ export default function BrandFoundingLanding() {
             <Card className="border-2 border-gray-200 hover:border-black transition-all duration-300 hover:shadow-lg">
               <div className="relative h-48 overflow-hidden rounded-t-lg">
                 <img
-                  src="https://img.kai-you.net/storage/2024/02/b474584b-6715-4398-8a4a-cbef66988299/main/origin.webp"
+                  src="public/anime.jpg"
                   alt="Studio Ghibli Style Animation Original Picture"
                   className="w-full h-full object-cover"
                 />
